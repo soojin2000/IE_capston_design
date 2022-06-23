@@ -1,2 +1,2 @@
-# IE_capston_design
+# IE_capstone_design
  
